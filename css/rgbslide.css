@@ -1,0 +1,20 @@
+#rslide .slider-selection {
+    background: #f00;
+}
+#rslide .slider-handle {
+    background: #a00;
+}
+
+#gslide .slider-selection {
+    background: #0f0;
+}
+#gslide .slider-handle {
+    background: #0a0;
+}
+
+#bslide .slider-selection {
+    background: #00f;
+}
+#bslide .slider-handle {
+    background: #00a;
+}
